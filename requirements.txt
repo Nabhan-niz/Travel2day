@@ -1,0 +1,8 @@
+streamlit
+openai
+requests
+python-dotenv
+pandas
+numpy
+flask
+transformers
