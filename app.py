@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # Use Streamlit Secrets for API keys
-HF_API_KEY = st.secrets["HF_API_KEY"]
+HF_API_KEY = st.secrets.get["HF_API_KEY"]
 
 # Hugging Face API Setup
 API_URL = "https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.2"
