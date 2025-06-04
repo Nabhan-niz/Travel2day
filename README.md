@@ -27,6 +27,5 @@ To set up Travel2day locally:
 Modify parameters in app.py or chatbot.py to customize recommendations.
 
 ## Sample Output
-![Sample Output 1][(https://raw.githubusercontent.com/Nabhan-niz/Travel2day/main/images/output1.jpg)](https://github.com/Nabhan-niz/Travel2day/blob/main/travel2day.jpg)
-![Sample Output 2][(https://raw.githubusercontent.com/Nabhan-niz/Travel2day/main/images/output2.jpg)
-](https://github.com/Nabhan-niz/Travel2day/blob/main/travel2day.jp)
+<img src="https://raw.githubusercontent.com/Nabhan-niz/Travel2day/main/images/output1.jpg" width="500">
+<img src="https://raw.githubusercontent.com/Nabhan-niz/Travel2day/main/images/output2.jpg" width="500">
